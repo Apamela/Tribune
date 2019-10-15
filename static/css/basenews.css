@@ -2,6 +2,8 @@ h1
 {
   color: skyblue;
 }
-img{
-    float: right;
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA48jRaCFqrkJijZOq-XhogEyBvX13d2aALZmKXutYI8kB_rqB");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
